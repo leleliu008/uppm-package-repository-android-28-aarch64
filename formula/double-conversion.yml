@@ -1,0 +1,5 @@
+summary: Binary-decimal and decimal-binary routines for IEEE doubles
+webpage: https://github.com/google/double-conversion
+version: 3.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/double-conversion-3.3.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 7a99812444b9673f6f69b803c9316927fa2045beaab342c5a6eed16c92092013

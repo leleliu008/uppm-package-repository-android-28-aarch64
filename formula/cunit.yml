@@ -1,0 +1,5 @@
+summary: Lightweight unit testing framework for C
+webpage: https://cunit.sourceforge.io
+version: 2.1.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/cunit-2.1.3-android-28-arm64-v8a.release.tar.xz
+bin-sha: 4755b69caf71221d5872363726811b07de419577545f86d276f535327f9f4cf9

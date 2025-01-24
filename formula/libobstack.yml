@@ -1,0 +1,5 @@
+summary: A standalone library to implement glibc obstack
+webpage: https://github.com/void-linux/musl-obstack
+version: 1.2.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libobstack-1.2.3-android-28-arm64-v8a.release.tar.xz
+bin-sha: d11fc7441b7f900454d694a263b90535fdcfaf94f07aae19b9a2f15ccfc587b3

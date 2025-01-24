@@ -1,0 +1,5 @@
+summary: Utility that provides fast incremental file transfer
+webpage: https://rsync.samba.org/
+version: 3.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/rsync-3.4.1-android-28-arm64-v8a.release.tar.xz
+bin-sha: 642ed6e576428bd43354a373b8816e315c8b1298d5275027a379b1a7335cf314

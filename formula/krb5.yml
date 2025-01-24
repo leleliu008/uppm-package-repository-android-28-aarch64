@@ -1,0 +1,5 @@
+summary: Network authentication protocol
+webpage: https://web.mit.edu/kerberos
+version: 1.21.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/krb5-1.21.2-android-28-arm64-v8a.release.tar.xz
+bin-sha: fe8d8b95a8a65a918d434b26ee98472592e529ddd7f6819c6549ae60c12cf7a3

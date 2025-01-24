@@ -1,0 +1,5 @@
+summary: Yet another free document preparation system
+webpage: https://www.chiark.greenend.org.uk/~sgtatham/halibut/
+version: 1.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/halibut-1.3-android-28-arm64-v8a.release.tar.xz
+bin-sha: 172ec5366caa697b88b0222519776b47924387a0aee308f70d1af8667c7342a0

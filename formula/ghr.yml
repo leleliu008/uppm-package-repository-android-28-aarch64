@@ -1,0 +1,5 @@
+summary: Upload multiple artifacts to GitHub Release in parallel
+webpage: https://tcnksm.github.io/ghr
+version: 0.16.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/ghr-0.16.2-android-28-arm64-v8a.release.tar.xz
+bin-sha: e2ef05d7820d8268cc9154daf4ab65b778d254a439a8ec648a1e3ade0e788d0b

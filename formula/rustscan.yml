@@ -1,0 +1,5 @@
+summary: Modern Day Portscanner
+webpage: https://github.com/RustScan/RustScan
+version: 2.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/rustscan-2.3.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 84274ead5cb2d407453dcf1782d30e8dca1bb9a3a96cb92c6b126fcf8525ac1e

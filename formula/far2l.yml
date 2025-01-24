@@ -1,0 +1,5 @@
+summary: FAR Manager v2
+webpage: https://github.com/elfmz/far2l
+version: 2.6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/far2l-2.6.4-android-28-arm64-v8a.release.tar.xz
+bin-sha: cc6156158ef27574cbf4c9c56952dc44232b14a3f01334527b8b12ab0ae67c27

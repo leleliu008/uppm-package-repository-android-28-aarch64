@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/pkgconf-2.3.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 267b669f1067300eff19e9e2f0544c2d6805c2f9bdf44913b6ccddb2ee8dcb05

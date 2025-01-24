@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/gogs-0.13.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: c372805cf150f36fae59fbdd9e9106fc9cb68f07549ba6085258c6854d6cdb87

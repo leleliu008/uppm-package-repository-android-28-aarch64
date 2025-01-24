@@ -1,0 +1,5 @@
+summary: A simple utility to discover large files/folders
+webpage: https://github.com/viktomas/godu
+version: 1.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/godu-1.3-android-28-arm64-v8a.release.tar.xz
+bin-sha: 0a689e4a2ec4081f15b6b0be815cbda4a05e4fc46661405d88537c30b010ac74

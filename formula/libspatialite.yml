@@ -1,0 +1,5 @@
+summary: Adds spatial SQL capabilities to SQLite
+webpage: https://www.gaia-gis.it/fossil/libspatialite/index
+version: 5.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libspatialite-5.1.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 556c06848aaa4f077fb6cb6853d1a205ea28f0e4362aaf4ab849026b9c95e47b

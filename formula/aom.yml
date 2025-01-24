@@ -1,0 +1,5 @@
+summary: command-line tools for encoding and decoding AV1 video streams
+webpage: https://aomedia.googlesource.com/aom
+version: 3.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/aom-3.11.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: b59e4bf6c0ac43de44d73d812eba1e74b3e58bc8b26d6dabbc2129e95e317293

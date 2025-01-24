@@ -1,0 +1,5 @@
+summary: A meta-build system for generating build files for ninja
+webpage: https://gn.googlesource.com/gn
+version: 2025.01.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/gn-2025.01.24-android-28-arm64-v8a.release.tar.xz
+bin-sha: e5fc0b0ddb48386387164fa438d95eafcd84f22d123662039e4918ff139aafe2

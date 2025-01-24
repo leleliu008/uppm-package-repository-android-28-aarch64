@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/openssl-3.4.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: dc9cbcced6acc7cfeff8710feade628169b3feb3337b3c23456863d8d2f0c7eb

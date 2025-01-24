@@ -1,0 +1,5 @@
+summary: Automatic Language-Agnostic Subtitle Synchronization
+webpage: https://github.com/kaegi/alass
+version: 2025.01.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/alass-2025.01.24-android-28-arm64-v8a.release.tar.xz
+bin-sha: 88a704401ebe0f87def5047ede63060f2ca7fb08f0a559367b130c78aba4a030

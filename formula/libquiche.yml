@@ -1,0 +1,5 @@
+summary: Savoury implementation of the QUIC transport protocol and HTTP/3
+webpage: https://github.com/cloudflare/quiche
+version: 2025.01.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libquiche-2025.01.24-android-28-arm64-v8a.release.tar.xz
+bin-sha: 9eb2baf1c777f985377b60f6054e3289af89f460cdfada788ecd0a4c8ff73db6

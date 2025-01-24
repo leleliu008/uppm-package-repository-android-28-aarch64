@@ -1,0 +1,5 @@
+summary: Library for manipulating pipelines of subprocesses in a flexible and convenient way
+webpage: http://libpipeline.nongnu.org
+version: 1.5.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libpipeline-1.5.7-android-28-arm64-v8a.release.tar.xz
+bin-sha: 040a4bb79ae3579df8e40d328dbb6f813a525d5f80b7c5d220b8746140015450

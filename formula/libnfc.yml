@@ -1,0 +1,5 @@
+summary: Low level NFC SDK and Programmers API
+webpage: https://github.com/nfc-tools/libnfc
+version: 1.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libnfc-1.8.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: c397105cc2d3b7ee279bb854af2768c0e15ea94d1b1b71fc965aa77a943d0b05

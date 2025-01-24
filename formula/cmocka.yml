@@ -1,0 +1,5 @@
+summary: An elegant unit testing framework for C with support for mock objects
+webpage: https://cmocka.org/
+version: 1.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/cmocka-1.1.7-android-28-arm64-v8a.release.tar.xz
+bin-sha: befc943cc59932546f6b8ab2de1f6fc21c33576df207cb9471cef4d61245cd2f

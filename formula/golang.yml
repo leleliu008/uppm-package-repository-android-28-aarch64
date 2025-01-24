@@ -1,0 +1,5 @@
+summary: Open source programming language to build simple/reliable/efficient software
+webpage: https://go.dev/
+version: 1.22.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/golang-1.22.4-android-28-arm64-v8a.release.tar.xz
+bin-sha: d094ca5dddcebe8d4e35a4df45e27ac0536fc24df917d3efa6a4f432e6236101

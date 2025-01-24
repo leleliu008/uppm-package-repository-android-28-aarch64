@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.22.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libintl-0.22.5-android-28-arm64-v8a.release.tar.xz
+bin-sha: 1a25170ad6147633392183592b3fbaed42323ce292fa72c44d586fc746e45b7d

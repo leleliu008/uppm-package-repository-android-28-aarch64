@@ -1,0 +1,5 @@
+summary: Tiny, lightning fast, feature-packed file manager
+webpage: https://github.com/jarun/nnn
+version: 4.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/nnn-4.9-android-28-arm64-v8a.release.tar.xz
+bin-sha: 1d52c57867e30c5ad5a61b5d9c97fec200c4255e67c48414aa7bbe2cb58b874d

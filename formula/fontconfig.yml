@@ -1,0 +1,5 @@
+summary: XML-based font configuration tools
+webpage: https://wiki.freedesktop.org/www/Software/fontconfig
+version: 2.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/fontconfig-2.15.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 98b6112ae3f7f0e1af67fe1b8ae0b9e62b2e00540ee75f78c779a91ee13dbeed

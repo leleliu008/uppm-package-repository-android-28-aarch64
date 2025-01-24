@@ -1,0 +1,5 @@
+summary: A collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools
+webpage: https://github.com/gperftools/gperftools
+version: 2.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/gperftools-2.15-android-28-arm64-v8a.release.tar.xz
+bin-sha: 60f438155a939978cdc8ef65d70dec7b26fc50f864421df8ff6c393f9f9e5b22

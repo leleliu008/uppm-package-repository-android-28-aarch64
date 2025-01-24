@@ -1,0 +1,5 @@
+summary: A C library for the MaxMind DB file format
+webpage: https://github.com/maxmind/libmaxminddb
+version: 1.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libmaxminddb-1.10.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 9066b7032720b55b1c11cdd29972c549b608fac5f283f6bb2be306db1b2b3407

@@ -1,0 +1,5 @@
+summary: A C library to render fonts
+webpage: https://freetype.org/
+version: 2.13.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libfreetype-2.13.2-android-28-arm64-v8a.release.tar.xz
+bin-sha: 9c5bacc2295ebf2d6dce08235f9e918fbedb654aaa08b6601aa650b2ebbda5c5

@@ -1,0 +1,5 @@
+summary: Assuan IPC Library
+webpage: https://www.gnupg.org/related_software/libassuan
+version: 2.5.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libassuan-2.5.7-android-28-arm64-v8a.release.tar.xz
+bin-sha: 674bfc978f48338e865e781171a8d20fa996deafef21d7f374a14eb0205afb83

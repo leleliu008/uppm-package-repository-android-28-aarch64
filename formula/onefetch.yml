@@ -1,0 +1,5 @@
+summary: Command-line Git information tool
+webpage: https://github.com/o2sh/onefetch
+version: 2.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/onefetch-2.20.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 99f3b84884a2d29cd81aa78291fdb7e772caa643c4d588009eade51bdb1cb5a3

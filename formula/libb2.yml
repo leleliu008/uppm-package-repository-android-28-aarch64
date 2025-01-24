@@ -1,0 +1,5 @@
+summary: Secure hashing function
+webpage: https://blake2.net
+version: 0.98.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/libb2-0.98.1-android-28-arm64-v8a.release.tar.xz
+bin-sha: 00d351092293102fbfa64ee406634e9c02992dda2b8fae5f2f12216f15781d1f

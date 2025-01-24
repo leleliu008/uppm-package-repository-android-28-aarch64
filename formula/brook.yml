@@ -1,0 +1,5 @@
+summary: Cross-platform strong encryption and not detectable proxy. Zero-Configuration
+webpage: https://txthinking.github.io/brook/
+version: 20240606
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/brook-20240606-android-28-arm64-v8a.release.tar.xz
+bin-sha: f734b64bc14d9e8ab9667ce2b1bfc062ee32225713efa8cf1fcb867f49ab61a5

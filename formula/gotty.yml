@@ -1,0 +1,5 @@
+summary: A simple command-line tool to share your terminal as a web application
+webpage: https://github.com/sorenisanerd/gotty
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-28-aarch64/releases/download/2025.01.24/gotty-1.5.0-android-28-arm64-v8a.release.tar.xz
+bin-sha: 1589a50168a8f27ccb1f33b21aa0702c6fa5420ca1a82eb42edb2aba0e388119
